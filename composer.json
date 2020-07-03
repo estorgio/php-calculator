@@ -1,4 +1,6 @@
 {
+  "name": "php-calculator",
+  "description": "A demo Calculator app made with PHP",
   "require": {
     "php": "~7.4.0"
   },

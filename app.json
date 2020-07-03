@@ -1,6 +1,6 @@
 {
   "name": "Calculator",
-  "description": "A Calculator demo app made with PHP",
+  "description": "A demo Calculator app made with PHP",
   "repository": "https://github.com/estorgio/php_calculator",
   "addons": []
 }
